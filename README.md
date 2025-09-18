@@ -11,6 +11,8 @@
 
 - تثبيت مكتبة بايثون:
 ```shell
-pkg install python```
+pkg install python
+```
 
-#telebkkff
+كيفنيمة بمرمب
+
