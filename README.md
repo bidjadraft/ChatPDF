@@ -14,6 +14,7 @@
 pkg install python
 ```
 
+
 - تثبيت مكتبة تلغرام و requests: 
 ```shell
 pip install python-telegram-bot requests
