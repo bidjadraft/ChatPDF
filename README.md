@@ -35,4 +35,4 @@ pip install python-telegram-bot requests
 ```shell
 nano filename.py
 ```
-> يمكنك تغيير الإسم filename إلى أي اسم آخر
+> يمكنك تغيير الإسم filename إلى أي اسم آخر تريده بشرط أن ينتهي بـ `.py`
