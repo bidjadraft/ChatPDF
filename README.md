@@ -9,8 +9,6 @@
 
 [![Termux](https://i.imgur.com/TNdEio0.png)](https://play.google.com/store/apps/details?id=com.termux)
 
-
-متوفر على متجر [GooglePlay](https://play.google.com/store/apps/details?id=com.termux) و [F-Droid](https://play.google.com/store/apps/details?id=com.termux)
 ----
 
 
