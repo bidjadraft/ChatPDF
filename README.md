@@ -2,7 +2,7 @@
 
 
  
-   ## تحميل تطبيق Termux:
+   ## تحميل تطبيق ترمكس:
 
 
 [![get it on F-Droid](https://i.imgur.com/G3wroE7.png)](https://f-droid.org/ar/packages/com.termux/)
