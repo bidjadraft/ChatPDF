@@ -58,4 +58,5 @@ nano filename.py
 ```shell
 python filename.py
 ```
+> في مكان `filename.py` تغير اسمه إلى إسم الملف الذي أنشأته
 
