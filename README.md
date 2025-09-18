@@ -1,8 +1,7 @@
-# ChatPDF
-هذا المشروع هو بوت تلغرام يسمح لك بالبحث عن أي موضوع داخل ملفات PDF
+اريد مقال md في githuub ، يتناسب مع هذا :
 
 
-
+كيفية البحث عن أي موضوع داخل ملفات pdf بدون الحاجة لقراءتها
 
 • تحميل تطبيق Termux:
 متوفر على متجر GooglePlay و F-Droid
@@ -68,3 +67,115 @@ python Filename.py```
 • إذا أردت إيقاف الكود تضغط:
 ```json
 "Cntrl" + "C"```
+
+
+
+ضعه في مربع كوود جاهز
+
+```md
+# كيفية البحث عن أي موضوع داخل ملفات PDF بدون الحاجة لقراءتها
+
+هذا الدليل يشرح كيفية إعداد بيئة تشغيل على Termux لإنشاء بوت تيليجرام يسمح بالبحث داخل ملفات PDF بشكل ذكي وسريع.
+
+---
+
+## تحميل تطبيق Termux
+
+- يتوفر تطبيق Termux على متجر Google Play وF-Droid.
+- قم بتحميل التطبيق وتثبيته على جهازك.
+
+---
+
+## تثبيت المكتبات الضرورية
+
+بعد فتح Termux، قم بتنفيذ الأوامر التالية لتثبيت بايثون والمكتبات اللازمة:
+
+```
+pkg install python
+pip install python-telegram-bot requests
+```
+
+---
+
+## إنشاء ملف السكربت
+
+1. لإنشاء ملف جديد بالاسم الذي تريده مع الامتداد `.py` مثل `pdf.py`، استخدم الأمر:
+
+```
+nano filename.py
+```
+
+*استبدل `filename` بأي اسم ترغب به.*
+
+2. سيفتح محرر النصوص، قم بلصق كود السكربت الذي ستجده في حسابي على GitHub (رابط المستودع موجود في وصف المشروع).
+
+3. لحفظ الملف والخروج اضغط:
+```
+Ctrl + X ثم Y ثم Enter
+```
+
+---
+
+## تشغيل السكربت
+
+لتشغيل السكربت استخدم الأمر:
+
+```
+python filename.py
+```
+
+---
+
+## تفعيل البوت
+
+- بعد تشغيل السكربت، سيطلب منك إدخال **BOT TOKEN** الخاص ببوت تيليجرام.
+- لإنشاء بوت جديد والحصول على التوكن:
+  - ابحث عن بوت @BotFather في التيليجرام.
+  - اتبع التعليمات لإنشاء بوت جديد.
+  - انسخ رمز التوكن والصقه في Termux.
+
+- ثم سيطلب منك إدخال **مفتاح Gemini API** لاستخدام خدمات الذكاء الاصطناعي.
+  - للحصول على مفتاح Gemini Api، اطلع على الشروحات المفصلة في قناتي (روابط الشرح مقدمة في المستودع).
+  
+- بعد التحقق من صحة الرمزين، سيبدأ البوت بالعمل.
+
+---
+
+## نصائح إضافية
+
+- الرموز (Token وAPI Key) تحفظ تلقائياً في ملف نصي لتجنب إعادة إدخالها في كل مرة.
+- لتشغيل السكربت مجدداً، فقط اكتب:
+
+```
+python filename.py
+```
+
+- لإيقاف التشغيل اضغط:
+
+```
+Ctrl + C
+```
+
+---
+
+باستخدام هذه الخطوات، يمكنك بسهولة إعداد بوت تيليجرام للبحث داخل ملفات PDF بدون الحاجة لقراءة الملفات يدوياً، مما يسرع عملية البحث ويجعلها أكثر كفاءة.
+
+---
+
+للكود والمزيد من التفاصيل، الرجاء زيارة المستودع على GitHub:  
+[رابط المستودع الخاص بي على GitHub](#)
+
+---
+
+استمتع بالتجربة وشاركنا أفكارك ومقترحاتك!
+```
+
+الاقتباسات:
+[1] How do I sucessfully install python-telegram-bot into Termux? https://stackoverflow.com/questions/53486027/how-do-i-sucessfully-install-python-telegram-bot-into-termux
+[2] How To Create A Telegram Bot With Python https://www.youtube.com/watch?v=NwBWW8cNCP4
+[3] python-telegram-bot/python-telegram-bot: We have made ... https://github.com/python-telegram-bot/python-telegram-bot
+[4] python-telegram-bot https://python-telegram-bot.org
+[5] Termux Full Course = How To Create Telegram Bot https://www.youtube.com/watch?v=EU8xVpoI9mg
+[6] How to Build AI Chatbots with Python in Termux https://devcommunity.io/terminaltools/how-to-build-ai-chatbots-with-python-in-termux-1f52
+[7] MFarelS/telegram-bot: Termux Telegram Bot https://github.com/MFarelS/telegram-bot
+[8] How to build and start telegram bot api local server ... https://www.pythonanywhere.com/forums/topic/33464/
