@@ -3,6 +3,10 @@
 
  
    - تحميل تطبيق Termux:
+
+
+[![get it on F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/ar/packages/com.termux/)
+
 متوفر على متجر [GooglePlay](https://play.google.com/store/apps/details?id=com.termux) و [F-Droid](https://play.google.com/store/apps/details?id=com.termux)
 ----
 
