@@ -37,8 +37,8 @@ nano filename.py
 ```
 > يمكنك تغيير الإسم filename إلى أي اسم آخر تريده بشرط أن ينتهي بـ `.py`
 ---
-> [!info]
- سيفتح معك محرر النصوص
+> [!Important]
+بعد الإنتهاء من تثبيت المكتبات، تنشئ ملف جديد بامتداد py مثل `pdf.py`
 
 
 2. ستحتاج إلى سكربت بايثون [اطلع على احدث إصدار](https://github.com/bidjadraft/ChatPDF/releases/tag/chatpdf)
