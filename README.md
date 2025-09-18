@@ -14,5 +14,5 @@
 pkg install python
 ```
 
-كيفنيمة بمرمب
+- تثبيت مكتبة Telegram و Requests:
 
