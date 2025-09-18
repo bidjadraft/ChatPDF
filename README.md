@@ -38,7 +38,7 @@ nano filename.py
 > يمكنك تغيير الإسم filename إلى أي اسم آخر تريده بشرط أن ينتهي بـ `.py`
 ---
 > [!Warning]
-سيتم فتح الملف عبر محرر النصوص للتعديل عليه
+بعد كتابة الأمر `nano filename.py` سيتم فتح الملف عبر محرر النصوص للتعديل عليه
 
 
 2. ستحتاج إلى سكربت بايثون [اطلع على احدث إصدار](https://github.com/bidjadraft/ChatPDF/releases/tag/chatpdf)
