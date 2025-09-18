@@ -25,3 +25,13 @@ pkg install python
 ```shell
 pip install python-telegram-bot requests
 ```
+---
+
+
+> [!Note]
+بعد الإنتهاء من تثبيت المكتبات، تنشئ ملف جديد بامتداد py مثل (pdf.py) 
+
+- و ذلك عبر كتابة الأمر التالي:
+```shell
+nano filename.py
+```
