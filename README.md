@@ -27,7 +27,7 @@ pip install python-telegram-bot requests
 ```
 ---
 
-
+## إنشاء سكربت
 > [!Important]
 بعد الإنتهاء من تثبيت المكتبات، تنشئ ملف جديد بامتداد py مثل `pdf.py`
 
