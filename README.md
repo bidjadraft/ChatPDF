@@ -36,3 +36,13 @@ pip install python-telegram-bot requests
 nano filename.py
 ```
 > يمكنك تغيير الإسم filename إلى أي اسم آخر تريده بشرط أن ينتهي بـ `.py`
+
+
+
+
+
+
+لحفظ الملف Filename.py تضغط:
+```json
+"Cntrl" + "X" + "Y" + "Enter"
+```
