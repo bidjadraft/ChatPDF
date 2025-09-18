@@ -41,7 +41,8 @@ nano filename.py
 بعد كتابة الأمر `nano filename.py` سيتم فتح الملف عبر محرر النصوص للتعديل عليه
 
 
-2. ستحتاج إلى سكربت بايثون [اطلع على احدث إصدار](https://github.com/bidjadraft/ChatPDF/releases/tag/chatpdf)
+2. ستحتاج إلى سكربت بايثون
+[اطلع على احدث إصدار](https://github.com/bidjadraft/ChatPDF/releases/tag/chatpdf)
 
 3. قم بتحميل أحدث إصدار من ملف `ChatPDF.txt` ثم افتحه على أي برنامج ، انسخ كل محتواه و الصقه في محرر النصوص على ترمكس
 
