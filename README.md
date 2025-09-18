@@ -36,7 +36,7 @@ pip install python-telegram-bot requests
 nano filename.py
 ```
 > يمكنك تغيير الإسم filename إلى أي اسم آخر تريده بشرط أن ينتهي بـ `.py`
-
+---
 > [!info]
 > سيفتح معك محرر النصوص
 
