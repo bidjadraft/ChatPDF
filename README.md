@@ -96,7 +96,7 @@ python filename.py
 - و هو رمز بوت تلغرام الخاص بك، إذا لم تكن تملك بوت أو لا تعرف كيفية الحصول على التوكن اضغط هنا لمشاهدة المقطع
 ---
 2. GEMINI API
-- بعد التحقق من صحة التوكن للبوت سيطلب منك إدخال مفتاح Gemini، للحصول عليه اضغط هنا لمشاهدة المقطع
+- بعد التحقق من صحة التوكن للبوت سيطلب منك إدخال مفتاح Gemini، للحصول عليه [اضغط هنا](https://www.youtube.com/watch?v=SMTLu2AT5tQ) لمشاهدة المقطع
 
 1. عبر [AiStudio](https://aistudio.google.com/app/apikey) (سهلة)
 2. عبر  [GoogleCloudConsole](https://console.cloud.google.com) (صعبة)
