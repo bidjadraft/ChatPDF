@@ -25,6 +25,11 @@ pkg install python
 ```shell
 pip install python-telegram-bot requests
 ```
+
+3. إعطاء صلاحية التخزين للقراءة و الكتابة
+```shell
+python-setup-storage
+```
 ---
 
 # إنشاء ملف
