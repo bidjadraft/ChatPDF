@@ -42,7 +42,7 @@ pkg install python
 ```
 
 
-2. تثبيت مكتبة `telegram` و `requests`: 
+2. تثبيت مكتبة `telegram` و `requests`
 ```shell
 pip install python-telegram-bot requests
 ```
