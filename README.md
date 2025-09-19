@@ -4,6 +4,12 @@
  
    # تحميل تطبيق ترمكس:
 
+[<img src="https://i.imgur.com/V2Xif6J.png" alt="get it on F-Droid" width="150">](https://f-droid.org/ar/packages/com.termux/)
+
+[<img src="https://i.imgur.com/nd0fboR.png" alt="Termux" width="150">](https://play.google.com/store/apps/details?id=com.termux)
+
+
+
 
 [![get it on F-Droid](https://i.imgur.com/V2Xif6J.png)](https://f-droid.org/ar/packages/com.termux/)
 
