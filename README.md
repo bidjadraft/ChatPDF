@@ -71,7 +71,7 @@ nano filename.py
 2. ستحتاج إلى نسخ سكربت بايثون تعثر عليه في خيار Relaeses أسفل الصفحة أو
 [ اضغط هنا للإطلاع على احدث إصدار مباشرة](https://github.com/bidjadraft/ChatPDF/releases/tag/chatpdf)
 ---
-3. قم بتحميل أحدث إصدار من ملف `ChatPDF.txt` ثم افتحه على أي برنامج ، انسخ كل محتواه و الصقه في محرر النصوص على ترمكس
+3. قم بتحميل أحدث إصدار من ملف [ChatPDF.txt](https://github.com/bidjadraft/ChatPDF/releases/download/chatpdf/ChatPDF.txt) ثم افتحه على أي برنامج ، انسخ كل محتواه و الصقه في محرر النصوص على ترمكس
 ---
 4. بعدما تلصق السكربت في محرر النصوص على ترمكس تقوم بحفظ الملف `filename.py` و ذلك عبر الضغط على:
 - `Cntrl` + `X` + `Y` + `Enter`
