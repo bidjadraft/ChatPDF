@@ -36,13 +36,13 @@
 > [!Tip]
 بعد تحميل و تثبيت التطبيق على جهازك تدخل إليه و تقوم بتثبيت المكتبات الضرورية التالية:
 
-1. `تثبيت مكتبة `بايثون:
+1. تثبيت مكتبة `python`
 ```shell
 pkg install python
 ```
 
 
-2. تثبيت مكتبة `تلغرام` و `requests`: 
+2. تثبيت مكتبة `telegram` و `requests`: 
 ```shell
 pip install python-telegram-bot requests
 ```
