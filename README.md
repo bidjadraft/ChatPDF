@@ -98,7 +98,7 @@ python filename.py
 2. GEMINI API
 - بعد التحقق من صحة التوكن للبوت سيطلب منك إدخال مفتاح Gemini، للحصول عليه اضغط هنا لمشاهدة المقطع
 
-عبر [AiStudio](https://aistudio.google.com/app/apikey) (سهلة)
+1. عبر [AiStudio](https://aistudio.google.com/app/apikey) (سهلة)
 2. عبر  [GoogleCloudConsole](https://console.cloud.google.com) (صعبة)
 
 > [!Warning]
