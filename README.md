@@ -6,12 +6,13 @@
 
 <p float="left">
   <a href="https://f-droid.org/ar/packages/com.termux/">
-    <img src="https://i.imgur.com/V2Xif6J.png" alt="get it on F-Droid" width="120" style="float: left; margin-right: 10px;">
+    <img src="https://i.imgur.com/V2Xif6J.png" alt="get it on F-Droid" width="180" style="float: left; margin-right: 15px;">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.termux">
-    <img src="https://i.imgur.com/nd0fboR.png" alt="Termux" width="120" style="float: right; margin-left: 10px;">
+    <img src="https://i.imgur.com/nd0fboR.png" alt="Termux" width="180" style="float: right; margin-left: 15px;">
   </a>
 </p>
+
 
 
 [<img src="https://i.imgur.com/V2Xif6J.png" alt="get it on F-Droid" width="150">](https://f-droid.org/ar/packages/com.termux/)
