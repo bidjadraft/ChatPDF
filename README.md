@@ -100,6 +100,7 @@ python filename.py
 
 1. عبر [AiStudio](https://aistudio.google.com/app/apikey) (سهلة)
 2. عبر  [GoogleCloudConsole](https://console.cloud.google.com) (صعبة)
+---
 
 > [!Warning]
 هذه البيانات يتم تخزينها في ملف يدعى `tokens.txt` و ذلك لتجنب تكرار كتابتها عند تشغيل السكربت في كل مرة
